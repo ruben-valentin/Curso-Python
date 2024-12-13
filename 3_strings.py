@@ -4,6 +4,7 @@
 variable1 = "Jose"
 variable2 = 'Perez'
 
+
 print(variable1)
 print(variable2)
 
@@ -21,8 +22,8 @@ print(variable4)
 
 
 # Escapar caracteres especiales
-variable5 = "\\tEsto es un string\\ncon salto de linea"
-print(variable5)
+variable_5 = "\\tEsto es un string\\ncon salto de linea"
+print(variable_5)
 
 # Formateo de strings
 
