@@ -1,3 +1,5 @@
+### Tuplas ###
+
 # Definición de tuplas
 
 my_tuple = tuple()  # Crea una tupla vacía usando el constructor tuple()
@@ -5,7 +7,7 @@ my_other_tuple = ()  # Crea una tupla vacía usando paréntesis
 
 # Definición de tuplas con valores
 # Tupla con diferentes tipos de datos, incluyendo duplicados
-my_tuple = (35, 1.77, "Brais", "Moure", "Brais")
+my_tuple = (35, 1.77, "Ruben", "Valentin", "Ruben")
 my_other_tuple = (35, 60, 30)  # Tupla con solo valores enteros
 
 print(my_tuple)  # Imprime la tupla my_tuple
@@ -18,11 +20,12 @@ print(my_tuple[-1])  # Accede al último elemento de my_tuple
 # print(my_tuple[4])  # IndexError: fuera del rango
 # print(my_tuple[-6])  # IndexError: fuera del rango
 
-# Cuenta cuántas veces aparece "Brais" en my_tuple
-print(my_tuple.count("Brais"))
-print(my_tuple.index("Moure"))  # Encuentra el índice de "Moure" en my_tuple
-# Encuentra el índice de la primera aparición de "Brais" en my_tuple
-print(my_tuple.index("Brais"))
+# Cuenta cuántas veces aparece "Ruben" en my_tuple
+print(my_tuple.count("Ruben"))
+# Encuentra el índice de "Valentin" en my_tuple
+print(my_tuple.index("Valentin"))
+# Encuentra el índice de la primera aparición de "Ruben" en my_tuple
+print(my_tuple.index("Ruben"))
 
 # my_tuple[1] = 1.80  # Error: las tuplas son inmutables y no permiten la reasignación de valores
 
@@ -45,7 +48,7 @@ my_tuple = list(my_tuple)
 print(type(my_tuple))
 
 # Modificación de la lista
-my_tuple[4] = "MoureDev"  # Cambia el valor en el índice 4 de la lista
+my_tuple[4] = "RubenValentin"  # Cambia el valor en el índice 4 de la lista
 my_tuple.insert(1, "Azul")  # Inserta "Azul" en la posición 1 de la lista
 
 # Conversión de la lista nuevamente a tupla

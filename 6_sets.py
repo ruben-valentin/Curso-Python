@@ -9,30 +9,30 @@ print(type(my_other_set))
 
 # Redefinición de my_other_set como conjunto con elementos
 # Crea un conjunto con varios tipos de datos
-my_other_set = {"Brais", "Moure", 35}
+my_other_set = {"Ruben", "Valentin", 35}
 print(type(my_other_set))  # Imprime <class 'set'>
 
 print(len(my_other_set))  # Imprime el número de elementos en el conjunto (3)
 
 # Inserción de elementos en el conjunto
 
-my_other_set.add("MoureDev")  # Agrega "MoureDev" al conjunto
+my_other_set.add("RuebenValentin")  # Agrega "RuebenValentin" al conjunto
 print(my_other_set)  # Imprime el conjunto; el orden no está garantizado
 
-# Intento de agregar "MoureDev" de nuevo; los duplicados no se añaden
-my_other_set.add("MoureDev")
+# Intento de agregar "RuebenValentin" de nuevo; los duplicados no se añaden
+my_other_set.add("RuebenValentin")
 print(my_other_set)  # El conjunto no cambia, sigue sin duplicados
 
 # Búsqueda de elementos en el conjunto
 
-# Verifica si "Moure" está en el conjunto; devuelve True
-print("Moure" in my_other_set)
-# Verifica si "Mouri" está en el conjunto; devuelve False
-print("Mouri" in my_other_set)
+# Verifica si "Ruben" está en el conjunto; devuelve True
+print("Ruben" in my_other_set)
+# Verifica si "Rube" está en el conjunto; devuelve False
+print("Rube" in my_other_set)
 
 # Eliminación de elementos en el conjunto
 
-my_other_set.remove("Moure")  # Elimina "Moure" del conjunto
+my_other_set.remove("Valentin")  # Elimina "Valentin" del conjunto
 print(my_other_set)  # Imprime el conjunto actualizado
 
 my_other_set.clear()  # Vacía todos los elementos del conjunto
@@ -43,7 +43,7 @@ del my_other_set  # Elimina el conjunto completamente
 
 # Transformación de un conjunto en otra estructura de datos
 
-my_set = {"Brais", "Moure", 35}  # Crea un nuevo conjunto
+my_set = {"Ruben", "Valentin", 35}  # Crea un nuevo conjunto
 my_list = list(my_set)  # Convierte el conjunto en una lista
 print(my_list)  # Imprime la lista resultante
 print(my_list[0])  # Accede al primer elemento de la lista

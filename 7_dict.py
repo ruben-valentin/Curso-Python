@@ -10,14 +10,14 @@ print(type(my_dict))  # Imprime el tipo de my_dict, que es <class 'dict'>
 print(type(my_other_dict))
 
 # Definición de un diccionario con elementos
-my_other_dict = {"Nombre": "Brais",
-                 "Apellido": "Moure", "Edad": 35, 1: "Python"}
+my_other_dict = {"Nombre": "Ruben",
+                 "Apellido": "Valentin", "Edad": 35, 1: "Python"}
 # Claves de diferentes tipos: strings ("Nombre") y enteros (1)
 
 # Definición de un diccionario con valores anidados
 my_dict = {
-    "Nombre": "Brais",
-    "Apellido": "Moure",
+    "Nombre": "Ruben",
+    "Apellido": "Valentin",
     "Edad": 35,
     # Un set como valor de la clave "Lenguajes"
     "Lenguajes": {"Python", "Swift", "Kotlin"},
@@ -36,15 +36,15 @@ print(len(my_dict))  # Imprime el número de elementos en my_dict
 print(my_dict[1])  # Accede al valor de la clave 1 en my_dict
 print(my_dict["Nombre"])  # Accede al valor de la clave "Nombre" en my_dict
 
-# Verifica si "Moure" es una clave en my_dict; devuelve False
-print("Moure" in my_dict)
+# Verifica si "Valentin" es una clave en my_dict; devuelve False
+print("Valentin" in my_dict)
 # Verifica si "Apellido" es una clave en my_dict; devuelve True
 print("Apellido" in my_dict)
 
 # Inserción de nuevos pares clave-valor
 
 # Agrega una nueva clave "Calle" con su valor
-my_dict["Calle"] = "Calle MoureDev"
+my_dict["Calle"] = "Calle ValentinDev"
 print(my_dict)  # Imprime el diccionario actualizado con la nueva clave
 
 # Actualización de valores
@@ -80,8 +80,8 @@ print(my_new_dict)
 my_new_dict = dict.fromkeys(my_dict)
 print(my_new_dict)
 
-# Crea un diccionario con las mismas claves y valores "MoureDev"
-my_new_dict = dict.fromkeys(my_dict, "MoureDev")
+# Crea un diccionario con las mismas claves y valores "ValentinDev"
+my_new_dict = dict.fromkeys(my_dict, "ValentinDev")
 print(my_new_dict)
 
 # Exploración de valores en el diccionario
