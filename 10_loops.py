@@ -1,66 +1,66 @@
+### Ejemplos de Loops ###
 
-### LOOPS ###
+# While
 
-# while
+counter = 1  # Inicializamos un contador
 
-my_condition = 0
+# Bucle while básico
+while counter <= 5:  # Se ejecuta mientras el contador sea menor o igual a 5
+    print(f"Contador actual: {counter}")  # Imprime el valor actual del contador
+    counter += 1  # Incrementa el contador en 1
+else:  # Esta parte se ejecuta si el bucle no se rompe con un break
+    print("El contador es mayor que 5")
 
-# while True:
-#     print(my_condition)
-#     my_condition += 12
-# # else:  # es opcional
-# #     print("Mi condicion es mayor o igual a 10")
+print("La ejecución continúa")
 
-# my_condition = 0
-# while my_condition < 20:
-#     my_condition += 1
-#     if my_condition == 15:
-#         print(my_condition)
-#         print("Se detiene la ejecucion")
-#         break
-#     print(my_condition)
+# Ejemplo con una condición de salida
+counter = 0
 
-# print("Fin de Programa")
+while counter < 10:  # Se ejecuta mientras el contador sea menor que 10
+    counter += 1  # Incrementa el contador
+    if counter == 7:  # Si el contador es igual a 7
+        print("Bucle detenido en 7")
+        break  # Sale del bucle
+    print(counter)  # Imprime el valor actual del contador
 
-# Tabla del 8
-# print("--------------------------")
-# numero = int(
-#     input("Dame un numero, no letras para la crear la tabla de multiplicar: "))
-# print("------------------------------")
-# print("------------------------------")
-# print(f"           TABLA DEL {numero}        ")
-# print("------------------------------")
-# print("------------------------------")
-# contador = 0
-# while contador < 10:
-#     contador += 1
-#     resultado = contador*numero
-#     print(f"{contador} x {numero} = {resultado}")
-# print("Fin de Programa")
+print("La ejecución continúa")
 
 # For
 
-# my_tupla = ("8x1=8", 34, 45, 67, 80, 23, 6)
+# Iterar sobre una lista de nombres
+names = ["Ana", "Luis", "Pedro", "Clara"]
 
-# for item in my_tupla:
-#     item = item * 8
-#     print(item)
+for name in names:  # Itera sobre cada elemento de la lista
+    print(f"Hola, {name}")  # Saluda a cada nombre
 
-# my_set = {"8x1=8", 34, 45, 67, 80, 23, 6}
+# Iterar sobre una tupla de edades
+ages = (25, 30, 35, 40)
 
-# for item in my_set:
-#     item = item * 8
-#     print(item)
+for age in ages:  # Itera sobre cada edad en la tupla
+    print(f"Tienes {age} años")  # Imprime cada edad
 
-my_dict = {"Nombre": "Pepe", 34: "Hola"}
+# Iterar sobre un conjunto de números
+numbers_set = {10, 20, 30, 40}
 
+for number in numbers_set:  # Itera sobre cada elemento del conjunto
+    print(f"Número: {number}")  # Imprime el número actual
 
-# for item in my_dict:
-#     print(f"Dentro de item hay: {item}")
-#     print(f" El valor para la calve {item} es {my_dict[item]}")
+# Iterar sobre un diccionario con clave-valor
+person = {"Nombre": "María", "Edad": 28, "Ciudad": "Madrid"}
 
+for key, value in person.items():  # Itera sobre las claves y valores del diccionario
+    print(f"{key}: {value}")  # Imprime la clave y el valor actual
+    if key == "Edad":  # Si la clave es "Edad"
+        break  # Detiene el bucle
 
-for item in my_dict:
-    if item == "Nombre":
-        print("Econtrado la clave nombre en dicionario")
+print("La ejecución continúa")
 
+# Ejemplo con continue
+for key, value in person.items():  # Itera sobre claves y valores
+    if key == "Ciudad":  # Si la clave es "Ciudad"
+        continue  # Salta a la siguiente iteración
+    print(f"{key}: {value}")  # Imprime clave y valor si no se cumplió el continue
+else:  # Se ejecuta al finalizar el bucle sin un break
+    print("El bucle for sobre el diccionario ha finalizado")
+
+print("Fin del programa")

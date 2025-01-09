@@ -1,40 +1,60 @@
-
-
-# Conditionals
+### Ejemplos de condicionales ###
 
 # if
 
-# my_condition = True
+# Declaramos una variable inicial
+number = 10
 
-# if my_condition:
-#     print("se ejecuta la condicion if")
+# Condicional if básico
+if number > 5:  # Verifica si el número es mayor que 5
+    print("El número es mayor que 5")  # Se ejecuta si la condición es verdadera
 
-# my_condition = 5 * 5
-# var2 = 0
-# if my_condition == 10:
-#     print("se ejecuta la condicion if")
-#     var2 = 5+7
-#     print("Imprimiendo la variable 2", var2)
+# Cambiamos el valor de la variable
+number = 3
 
-# var1 = 6
+# Nuevo condicional if con comparación explícita
+if number == 3:  # Verifica si el número es igual a 3
+    print("El número es igual a 3")  # Este mensaje se imprime si la condición es verdadera
 
-# print(var2)
+# if, elif, else
 
-# if, elif , else
+# Declaramos otra variable
+age = 18
 
-# print("--------------------------")
-# my_condition = int(input("Dame un numero, no letras: "))
+if age < 18:  # Verifica si la edad es menor a 18
+    print("Eres menor de edad")  # Este mensaje se imprime si la condición es verdadera
+elif age == 18:  # Verifica si la edad es exactamente 18
+    print("Tienes 18 años, justo en la mayoría de edad")  # Se ejecuta si la condición es verdadera
+else:  # Si ninguna condición anterior se cumple
+    print("Eres mayor de edad")  # Este mensaje se imprime en ese caso
 
-# if my_condition > 10 and my_condition < 20:
-#     print("Es mayor que 10 y menor que 20")
-# elif my_condition == 25:
-#     print("Es igual a 25")
-# else:
-#     print("Es menor o igual que 10 o mayor o igual a 20")
+print("La ejecución continúa...")  # Mensaje que indica que el programa sigue
 
-# print("Fin de programa")
+# Inspección de valores con condicionales
 
+# Declaramos una lista
+my_list = []
 
-my_string = ""
-if not my_string:
-    print("Mi cadena de texto esta vacia")
+# Verificamos si la lista está vacía
+if not my_list:  # Se cumple si la lista está vacía
+    print("La lista está vacía")  # Este mensaje se imprime si la condición es verdadera
+
+# Añadimos un valor a la lista
+my_list.append(42)
+
+# Verificamos si la lista contiene un elemento específico
+if 42 in my_list:  # Verifica si el número 42 está en la lista
+    print("El número 42 está en la lista")  # Este mensaje se imprime si la condición es verdadera
+
+# Otro ejemplo con strings
+name = "Carlos"
+
+# Verificamos si el nombre coincide con un valor
+if name == "Carlos":  # Compara si el nombre es "Carlos"
+    print("Hola, Carlos")  # Mensaje de bienvenida si la condición es verdadera
+elif name == "María":  # Otra comparación
+    print("Hola, María")  # Mensaje de bienvenida si el nombre es "María"
+else:  # Si el nombre no coincide con ninguno anterior
+    print("Hola, desconocido")  # Mensaje genérico
+
+print("Fin del programa")  # Mensaje final indicando el fin de la ejecución

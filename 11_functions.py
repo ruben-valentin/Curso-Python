@@ -1,54 +1,63 @@
-# variables
+### Ejemplos de Funciones ###
 
-pi = 3.14
+# Definición
 
-# Funciones que no devuleven nada
+def greet():
+    print("¡Hola! Bienvenido a mi programa")
 
+# Llamadas a la función
+greet()
+greet()
+greet()
 
-def imprimir_hola_mundo():
-    print("Hola Mundo")
+# Función con parámetros de entrada/argumentos
 
+def multiply_two_values(a: int, b: int):
+    print(a * b)
 
-# imprimir_hola_mundo()
-# imprimir_hola_mundo()
-# imprimir_hola_mundo()
-# imprimir_hola_mundo()
-# imprimir_hola_mundo()
+# Llamadas a la función con diferentes valores
+multiply_two_values(3, 4)
+multiply_two_values(10, 25)
+multiply_two_values(1.5, 2)
+multiply_two_values("Hola", 3)
 
+# Función con parámetros de entrada/argumentos y retorno
 
-def suma(var1: int, var2):
-    print(var1+var2)
+def multiply_two_values_with_return(a, b):
+    result = a * b
+    return result
 
+# Usando la función con retorno
+product = multiply_two_values_with_return(6, 7)
+print(f"El producto es: {product}")
 
-def sumar():
-    var1 = int(input("Dame el primer numero: "))
-    var2 = int(input("Dame el segundo numero: "))
-    suma(var1, var2)
+product = multiply_two_values_with_return(2.5, 4)
+print(f"El producto es: {product}")
 
+# Función con parámetros de entrada/argumentos por clave
 
-def multiplicar_por_pi_por_un_valor_dado(valor: int):
-    print(valor*pi)
+def show_full_address(city, country):
+    print(f"Vives en {city}, {country}")
 
+# Llamada a la función usando argumentos por clave
+show_full_address(country="España", city="Madrid")
 
-# suma(2, 5)
-# suma(4, 3)
-# suma(9, 20)
-# suma(1, 3)
-# sumar()
-# multiplicar_por_pi_por_un_valor_dado(34)
+# Función con parámetros de entrada/argumentos por defecto
 
+def introduce_yourself(name, profession="Desconocida"):
+    print(f"Me llamo {name} y soy {profession}")
 
-def resta(var1, var2):
-    resulado = var1-var2
-    return resulado
+# Llamadas a la función
+introduce_yourself("Luis")
+introduce_yourself("Clara", "Ingeniera")
 
+# Función con parámetros de entrada/argumentos arbitrarios
 
-# var3 = resta(4, 2)
-# print(var3)
+def print_lower_texts(*texts):
+    print(type(texts))  # Muestra el tipo de datos de texts (una tupla)
+    for text in texts:
+        print(text.lower())
 
-print(resta(4, 2))
-
-
-def encriptar(texto):
-    # hacer encriptacion
-    return texto
+# Llamadas a la función con diferentes números de argumentos
+print_lower_texts("HOLA", "MUNDO", "PYTHON")
+print_lower_texts("ESTO ES UN TEXTO")
