@@ -1,0 +1,132 @@
+// Pregunta 1: ¿Qué es una tarjeta gráfica?
+¿Qué es una tarjeta gráfica y cuál es su función principal en un ordenador? {
+=Un microprocesador especializado para crear y manipular imágenes.
+~Un dispositivo que gestiona el almacenamiento del sistema.
+~Un componente encargado de procesar sonido.
+~Una unidad central de procesamiento de datos generales.
+}
+
+// Pregunta 2: ¿Cuáles son los tres componentes principales de una tarjeta gráfica?
+¿Cuáles son los tres componentes principales de una tarjeta gráfica según la analogía del artista digital? {
+=Procesadores, memoria y arquitectura de procesamiento.
+~CPU, memoria RAM y tarjeta madre.
+~Disco duro, RAM y unidad óptica.
+~Sistema operativo, pantalla y teclado.
+}
+
+// Pregunta 3: ¿Por qué el procesamiento en paralelo es importante en las GPUs?
+¿Por qué el procesamiento en paralelo es una característica clave de las tarjetas gráficas? {
+=Permite realizar miles de operaciones simultáneamente, ideal para gráficos en tiempo real.
+~Reduce el consumo de energía en un sistema.
+~Optimiza el rendimiento de la CPU.
+~Mejora la capacidad de almacenamiento de datos.
+}
+
+// Pregunta 4: Verdadero o Falso
+Las GPUs solo se utilizan para videojuegos y aplicaciones multimedia. {
+FALSO
+}
+
+// Pregunta 5: ¿Qué ha impulsado la demanda de GPUs en el mercado actual?
+¿Qué ha impulsado la creciente demanda de GPUs en el mercado actual? {
+=La necesidad de contenido visual de alta calidad y aplicaciones de inteligencia artificial.
+~El aumento en el uso de procesadores básicos de texto.
+~La demanda de dispositivos portátiles con poca potencia gráfica.
+~La eliminación del uso de tarjetas gráficas en aplicaciones modernas.
+}
+
+// Pregunta 6: Verdadero o Falso
+Las GPUs integradas utilizan la memoria RAM del sistema para procesar gráficos. {
+VERDADERO
+}
+
+// Pregunta 7: ¿Cuál es una ventaja de las GPUs dedicadas frente a las integradas?
+¿Cuál es una ventaja de las GPUs dedicadas frente a las integradas? {
+=Mayor rendimiento en tareas gráficas intensivas.
+~Menor consumo de energía.
+~Coste más económico.
+~Mayor eficiencia en tareas básicas.
+}
+
+// Pregunta 8: Verdadero o Falso
+Las GPUs dedicadas cuentan con su propia VRAM, lo que mejora el rendimiento gráfico. {
+VERDADERO
+}
+
+// Pregunta 9: ¿Qué tecnología introdujo DirectX en el desarrollo de videojuegos?
+¿Qué tecnología introdujo DirectX en el desarrollo de videojuegos? {
+=Una API estándar para gráficos 3D que facilita la compatibilidad entre hardware y software.
+~Una tarjeta gráfica específica de Microsoft.
+~Un sistema operativo especializado en gráficos.
+~Un lenguaje de programación exclusivo para GPUs.
+}
+
+// Pregunta 10: ¿Qué avances trajo la GeForce 256 de NVIDIA en 1999?
+¿Qué avances trajo la GeForce 256 de NVIDIA en 1999? {
+=Introdujo la transformación e iluminación por hardware y liberó a la CPU de estas tareas.
+~Fue la primera tarjeta gráfica con soporte para DirectX 12.
+~Implementó memoria HBM para mejorar el ancho de banda.
+~Incluyó un sistema de refrigeración líquida integrado.
+}
+
+// Pregunta 11: Verdadero o Falso
+La arquitectura RDNA 3 de AMD utiliza un diseño de chiplets para mejorar el rendimiento y la eficiencia. {
+VERDADERO
+}
+
+// Pregunta 12: Verdadero o Falso
+Las GPUs modernas permiten entrenar redes neuronales profundas gracias a su capacidad de procesamiento paralelo. {
+VERDADERO
+}
+
+// Pregunta 13: ¿Qué tipo de memoria gráfica ofrece mayor ancho de banda?
+¿Qué tipo de memoria gráfica ofrece mayor ancho de banda? {
+=HBM (High Bandwidth Memory).
+~GDDR5.
+~GDDR3.
+~DDR4.
+}
+
+// Pregunta 14: Verdadero o Falso
+La frecuencia boost de una GPU es la velocidad máxima que puede alcanzar temporalmente. {
+VERDADERO
+}
+
+// Pregunta 15: ¿Cuál es el principal beneficio del uso de refrigeración líquida en una GPU?
+¿Cuál es el principal beneficio del uso de refrigeración líquida en una GPU? {
+=Mejor disipación de calor, permitiendo un funcionamiento más silencioso y eficiente.
+~Menor coste en comparación con la refrigeración por aire.
+~Mayor facilidad de instalación en comparación con los sistemas de ventilador.
+~Eliminación completa de la necesidad de ventiladores.
+}
+
+// Pregunta 16: Verdadero o Falso
+El conector PCIe 5.0 permite un ancho de banda de hasta 128 GB/s en configuración x16. {
+VERDADERO
+}
+
+// Pregunta 17: ¿Cuál es el principal objetivo de los Tensor Cores en una GPU?
+¿Cuál es el principal objetivo de los Tensor Cores en una GPU? {
+=Acelerar operaciones de inteligencia artificial y aprendizaje profundo.
+~Mejorar el almacenamiento de datos gráficos.
+~Reducir el consumo energético de la GPU.
+~Incrementar la capacidad de almacenamiento de texturas.
+}
+
+// Pregunta 18: Verdadero o Falso
+Las tarjetas gráficas modernas pueden consumir más de 450W de energía bajo carga. {
+VERDADERO
+}
+
+// Pregunta 19: ¿Qué factor es crucial para elegir una fuente de alimentación adecuada para una GPU?
+¿Qué factor es crucial para elegir una fuente de alimentación adecuada para una GPU? {
+=La potencia total (W) y la certificación de eficiencia (80 Plus).
+~La cantidad de ranuras PCIe disponibles.
+~El tamaño físico de la fuente de alimentación.
+~El color de los cables de alimentación.
+}
+
+// Pregunta 20: Verdadero o Falso
+Las GPUs de gama alta suelen incluir conectores de alimentación adicionales de 8 pines. {
+VERDADERO
+}

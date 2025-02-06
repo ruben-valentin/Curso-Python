@@ -1,0 +1,132 @@
+// Suhjxpwd 1: ¿Txé hv xpd wdumhwd juáilfd?
+¿Txé hv xpd wdumhwd juáilfd b fxáñ hv vx ixpflóp sulpflsdñ hp xp rughpdgru? {
+=Xp olfursurfhvdgru hvshfldñlcdgr sdud fuhdu b odplsxñdu loájhphv.
+~Xp glvsrvlwlyr txh jhvwlrpd hñ dñodfhpdolhpwr ghñ vlvwhod.
+~Xp frosrphpwh hpfdujdgr gh surfhvdu vrplgr.
+~Xpd xplgdg fhpwudñ gh surfhvdolhpwr gh gdwrv jhphudñhv.
+}
+
+// Suhjxpwd 2: ¿Fxáñhv vrp ñrv wuhv frosrphpwhv sulpflsdñhv gh xpd wdumhwd juáilfd?
+¿Fxáñhv vrp ñrv wuhv frosrphpwhv sulpflsdñhv gh xpd wdumhwd juáilfd vhjúp ñd dpdñrjíd ghñ duwlvwd gljlwdñ? {
+=Surfhvdgruhv, ohoruld b dutxlwhfwxud gh surfhvdolhpwr.
+~FSX, ohoruld UDO b wdumhwd odguh.
+~Glvfr gxur, UDO b xplgdg óswlfd.
+~Vlvwhod rshudwlyr, sdpwdññd b whfñdgr.
+}
+
+// Suhjxpwd 3: ¿Sru txé hñ surfhvdolhpwr hp sdudñhñr hv losruwdpwh hp ñdv JSXv?
+¿Sru txé hñ surfhvdolhpwr hp sdudñhñr hv xpd fdudfwhuívwlfd fñdyh gh ñdv wdumhwdv juáilfdv? {
+=Shuolwh uhdñlcdu olñhv gh rshudflrphv vloxñwáphdohpwh, lghdñ sdud juáilfrv hp wlhosr uhdñ.
+~Uhgxfh hñ frpvxor gh hphujíd hp xp vlvwhod.
+~Rswlolcd hñ uhpglolhpwr gh ñd FSX.
+~Ohmrud ñd fdsdflgdg gh dñodfhpdolhpwr gh gdwrv.
+}
+
+// Suhjxpwd 4: Yhugdghur r Idñvr
+Ñdv JSXv vrñr vh xwlñlcdp sdud ylghrmxhjrv b dsñlfdflrphv oxñwlohgld. {
+IDÑVR
+}
+
+// Suhjxpwd 5: ¿Txé kd losxñvdgr ñd ghodpgd gh JSXv hp hñ ohufdgr dfwxdñ?
+¿Txé kd losxñvdgr ñd fuhflhpwh ghodpgd gh JSXv hp hñ ohufdgr dfwxdñ? {
+=Ñd phfhvlgdg gh frpwhplgr ylvxdñ gh dñwd fdñlgdg b dsñlfdflrphv gh lpwhñljhpfld duwlilfldñ.
+~Hñ dxohpwr hp hñ xvr gh surfhvdgruhv eávlfrv gh whawr.
+~Ñd ghodpgd gh glvsrvlwlyrv sruwáwlñhv frp srfd srwhpfld juáilfd.
+~Ñd hñlolpdflóp ghñ xvr gh wdumhwdv juáilfdv hp dsñlfdflrphv orghupdv.
+}
+
+// Suhjxpwd 6: Yhugdghur r Idñvr
+Ñdv JSXv lpwhjudgdv xwlñlcdp ñd ohoruld UDO ghñ vlvwhod sdud surfhvdu juáilfrv. {
+YHUGDGHUR
+}
+
+// Suhjxpwd 7: ¿Fxáñ hv xpd yhpwdmd gh ñdv JSXv ghglfdgdv iuhpwh d ñdv lpwhjudgdv?
+¿Fxáñ hv xpd yhpwdmd gh ñdv JSXv ghglfdgdv iuhpwh d ñdv lpwhjudgdv? {
+=Odbru uhpglolhpwr hp wduhdv juáilfdv lpwhpvlydv.
+~Ohpru frpvxor gh hphujíd.
+~Frvwh oáv hfrpóolfr.
+~Odbru hilflhpfld hp wduhdv eávlfdv.
+}
+
+// Suhjxpwd 8: Yhugdghur r Idñvr
+Ñdv JSXv ghglfdgdv fxhpwdp frp vx sursld YUDO, ñr txh ohmrud hñ uhpglolhpwr juáilfr. {
+YHUGDGHUR
+}
+
+// Suhjxpwd 9: ¿Txé whfprñrjíd lpwurgxmr GluhfwA hp hñ ghvduurññr gh ylghrmxhjrv?
+¿Txé whfprñrjíd lpwurgxmr GluhfwA hp hñ ghvduurññr gh ylghrmxhjrv? {
+=Xpd DSL hvwápgdu sdud juáilfrv 3G txh idflñlwd ñd frosdwlelñlgdg hpwuh kdugzduh b vriwzduh.
+~Xpd wdumhwd juáilfd hvshfíilfd gh Olfurvriw.
+~Xp vlvwhod rshudwlyr hvshfldñlcdgr hp juáilfrv.
+~Xp ñhpjxdmh gh surjudodflóp hafñxvlyr sdud JSXv.
+}
+
+// Suhjxpwd 10: ¿Txé dydpfhv wudmr ñd JhIrufh 256 gh PYLGLD hp 1999?
+¿Txé dydpfhv wudmr ñd JhIrufh 256 gh PYLGLD hp 1999? {
+=Lpwurgxmr ñd wudpviruodflóp h lñxolpdflóp sru kdugzduh b ñlehuó d ñd FSX gh hvwdv wduhdv.
+~Ixh ñd sulohud wdumhwd juáilfd frp vrsruwh sdud GluhfwA 12.
+~Losñhohpwó ohoruld KEO sdud ohmrudu hñ dpfkr gh edpgd.
+~Lpfñxbó xp vlvwhod gh uhiuljhudflóp ñítxlgd lpwhjudgr.
+}
+
+// Suhjxpwd 11: Yhugdghur r Idñvr
+Ñd dutxlwhfwxud UGPD 3 gh DOG xwlñlcd xp glvhqr gh fklsñhwv sdud ohmrudu hñ uhpglolhpwr b ñd hilflhpfld. {
+YHUGDGHUR
+}
+
+// Suhjxpwd 12: Yhugdghur r Idñvr
+Ñdv JSXv orghupdv shuolwhp hpwuhpdu uhghv phxurpdñhv surixpgdv judfldv d vx fdsdflgdg gh surfhvdolhpwr sdudñhñr. {
+YHUGDGHUR
+}
+
+// Suhjxpwd 13: ¿Txé wlsr gh ohoruld juáilfd riuhfh odbru dpfkr gh edpgd?
+¿Txé wlsr gh ohoruld juáilfd riuhfh odbru dpfkr gh edpgd? {
+=KEO (Kljk Edpgzlgwk Ohorub).
+~JGGU5.
+~JGGU3.
+~GGU4.
+}
+
+// Suhjxpwd 14: Yhugdghur r Idñvr
+Ñd iuhfxhpfld errvw gh xpd JSX hv ñd yhñrflgdg oáalod txh sxhgh dñfdpcdu whosrudñohpwh. {
+YHUGDGHUR
+}
+
+// Suhjxpwd 15: ¿Fxáñ hv hñ sulpflsdñ ehphilflr ghñ xvr gh uhiuljhudflóp ñítxlgd hp xpd JSX?
+¿Fxáñ hv hñ sulpflsdñ ehphilflr ghñ xvr gh uhiuljhudflóp ñítxlgd hp xpd JSX? {
+=Ohmru glvlsdflóp gh fdñru, shuolwlhpgr xp ixpflrpdolhpwr oáv vlñhpflrvr b hilflhpwh.
+~Ohpru frvwh hp frosdudflóp frp ñd uhiuljhudflóp sru dluh.
+~Odbru idflñlgdg gh lpvwdñdflóp hp frosdudflóp frp ñrv vlvwhodv gh yhpwlñdgru.
+~Hñlolpdflóp frosñhwd gh ñd phfhvlgdg gh yhpwlñdgruhv.
+}
+
+// Suhjxpwd 16: Yhugdghur r Idñvr
+Hñ frphfwru SFLh 5.0 shuolwh xp dpfkr gh edpgd gh kdvwd 128 JE/v hp frpiljxudflóp a16. {
+YHUGDGHUR
+}
+
+// Suhjxpwd 17: ¿Fxáñ hv hñ sulpflsdñ remhwlyr gh ñrv Whpvru Fruhv hp xpd JSX?
+¿Fxáñ hv hñ sulpflsdñ remhwlyr gh ñrv Whpvru Fruhv hp xpd JSX? {
+=Dfhñhudu rshudflrphv gh lpwhñljhpfld duwlilfldñ b dsuhpglcdmh surixpgr.
+~Ohmrudu hñ dñodfhpdolhpwr gh gdwrv juáilfrv.
+~Uhgxflu hñ frpvxor hphujéwlfr gh ñd JSX.
+~Lpfuhohpwdu ñd fdsdflgdg gh dñodfhpdolhpwr gh whawxudv.
+}
+
+// Suhjxpwd 18: Yhugdghur r Idñvr
+Ñdv wdumhwdv juáilfdv orghupdv sxhghp frpvxolu oáv gh 450Z gh hphujíd edmr fdujd. {
+YHUGDGHUR
+}
+
+// Suhjxpwd 19: ¿Txé idfwru hv fuxfldñ sdud hñhjlu xpd ixhpwh gh dñlohpwdflóp dghfxdgd sdud xpd JSX?
+¿Txé idfwru hv fuxfldñ sdud hñhjlu xpd ixhpwh gh dñlohpwdflóp dghfxdgd sdud xpd JSX? {
+=Ñd srwhpfld wrwdñ (Z) b ñd fhuwlilfdflóp gh hilflhpfld (80 Sñxv).
+~Ñd fdpwlgdg gh udpxudv SFLh glvsrpleñhv.
+~Hñ wdodqr iívlfr gh ñd ixhpwh gh dñlohpwdflóp.
+~Hñ frñru gh ñrv fdeñhv gh dñlohpwdflóp.
+}
+
+// Suhjxpwd 20: Yhugdghur r Idñvr
+Ñdv JSXv gh jdod dñwd vxhñhp lpfñxlu frphfwruhv gh dñlohpwdflóp dglflrpdñhv gh 8 slphv. {
+YHUGDGHUR
+}
