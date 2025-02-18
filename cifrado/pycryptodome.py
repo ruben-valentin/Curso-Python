@@ -9,11 +9,11 @@ texto = "Hola, esto es un mensaje secreto"
 
 
 # Cifrar mensaje
-mensaje = texto.encode()
+caja = texto.encode()
 print("-----------------------------------")
 print("Mensaje a Cifrar:", texto)
 print("-----------------------------------")
-cifrado, tag = cipher.encrypt_and_digest(mensaje)
+cifrado, tag = cipher.encrypt_and_digest(caja)
 
 print("Texto Cifrado:", cifrado)
 
